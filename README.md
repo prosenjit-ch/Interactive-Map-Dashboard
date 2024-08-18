@@ -14,4 +14,4 @@ This is an interactive map dashboard that allows users to select specific square
 
 The dashboard is deployed on a cloud platform, making it easy to access from anywhere. Below are the access details:
 
-Live Demo: [Link](https://www.example.com)
+Live Demo: [Link](https://interactive-map-dashboard-c0lf.onrender.com/)
